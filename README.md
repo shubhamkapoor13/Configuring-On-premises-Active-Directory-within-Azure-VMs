@@ -132,7 +132,6 @@ To create the users we will use a script,
 
 <b>Click RAW to copy the script</b>
 
-<img src="https://i.imgur.com/cb5VISv.png">
 <img src="https://i.imgur.com/pPNHbne.png">
 
 <b> On the DC > Open POWERSHELL ISE as an Admin </b>
