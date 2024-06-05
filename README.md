@@ -50,3 +50,47 @@ Right Click on mydomain.com > Click to Refresh
  <img src="https://i.imgur.com/Eq1OV2X.png">
  <img src="https://i.imgur.com/f0tESfY.png">
  
+<h2>Assign New "User" Admin to Admins Security Group </h2>
+ 
+<b>Right click on new user name > Click on Properties</b>
+
+<img src="https://i.imgur.com/17miYVt.png">
+  
+<b>Click Member of > Click ADD </b>
+ 
+ <img src="https://i.imgur.com/gekIQmD.png">
+ 
+ <b>Type: Domain > Click Check Names</b>
+ 
+ <img src="https://i.imgur.com/Ce2hG3b.png">
+ 
+<b> Click Domain Admins > Click Ok > Click Apply > Click Ok </b>
+
+<img src="https://i.imgur.com/8Aqu3Bt.png">
+  
+<b>Log off of the DC and back into with new credentials</b>
+
+<img src="https://i.imgur.com/EjoJrke.png">
+  
+<h2> Join Client to the Domain Controller</h2>
+
+<b> In the Client VM go to System </b>
+
+<img src="https://i.imgur.com/uwmfiBJ.png">
+
+<b>Click Rename this PC (advanced) </b>
+
+<img src="https://i.imgur.com/Ifve5rg.png">
+
+<b>Click Change</b>
+
+<img src="https://i.imgur.com/vsBFyRS.png">
+
+<b>Click Domain > Type: mydomain.com > Click Ok </b>
+
+<img src="https://i.imgur.com/9ep1u1f.png">
+
+<b>Enter username/password of the Client to join the Domain</b>
+
+<img src="https://imgur.com/8uIlT7s.png">
+
