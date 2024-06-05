@@ -128,7 +128,7 @@ Right Click on mydomain.com > Click to Refresh
   
 <h2>Create a Bunch of Users</h2>
 
-To create the users we will use a script, <a href="https://github.com/AsiaPonder001/BunchofUsers/blob/main/README.md?plain=1)"> CLICK HERE</a>
+To create the users we will use a script, 
 
 <b>Click RAW to copy the script</b>
 
